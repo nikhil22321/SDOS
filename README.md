@@ -169,10 +169,7 @@ We welcome contributions from the healthcare and technology community!
 
 ## 👨‍💻 Development Team
 
-- **Dev Utkarsh Pal** - dev22150@iiitd.ac.in
-- **Aditya Upadhyay** - aditya22040@iiitd.ac.in
-- **Dasari Sai Harsh** - dasari22144@iiitd.ac.in  
-
+- **Nikhil** - nikhil22321@iiitd.ac.in
 
 ## 🎓 Academic Sponsor
 
